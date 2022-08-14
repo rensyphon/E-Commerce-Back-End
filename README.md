@@ -6,11 +6,11 @@ This project involved setting up routes for start code, in order to set up a bac
 
 ## Installation
 
-After opening the repository in an IDE, run `npm i` in the terminal to install the necessary modules, then `npm run seed` to seed the database and `node serve.js` to start the program.
+Video instructions on installation may be found [here](https://drive.google.com/file/d/1SUW3CANfU8dTGoYhZvuqMsU7npiDz1hU/view)/.
 
 ## Usage
 
-Video instructions on use may be found [here]() or [here]().
+Video instructions on use may be found [here](https://drive.google.com/file/d/1SUW3CANfU8dTGoYhZvuqMsU7npiDz1hU/view)/.
 
 ## Credits
 
